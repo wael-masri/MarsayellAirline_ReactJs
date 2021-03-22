@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/MarsayellAirline_ReactJs/static/css/main.2aa31d84.chunk.css",
+    "main.js": "/MarsayellAirline_ReactJs/static/js/main.1ca08c03.chunk.js",
+    "main.js.map": "/MarsayellAirline_ReactJs/static/js/main.1ca08c03.chunk.js.map",
+    "runtime-main.js": "/MarsayellAirline_ReactJs/static/js/runtime-main.26130a6b.js",
+    "runtime-main.js.map": "/MarsayellAirline_ReactJs/static/js/runtime-main.26130a6b.js.map",
+    "static/js/2.4d3c0374.chunk.js": "/MarsayellAirline_ReactJs/static/js/2.4d3c0374.chunk.js",
+    "static/js/2.4d3c0374.chunk.js.map": "/MarsayellAirline_ReactJs/static/js/2.4d3c0374.chunk.js.map",
+    "static/js/3.1c5007f6.chunk.js": "/MarsayellAirline_ReactJs/static/js/3.1c5007f6.chunk.js",
+    "static/js/3.1c5007f6.chunk.js.map": "/MarsayellAirline_ReactJs/static/js/3.1c5007f6.chunk.js.map",
+    "index.html": "/MarsayellAirline_ReactJs/index.html",
+    "static/css/main.2aa31d84.chunk.css.map": "/MarsayellAirline_ReactJs/static/css/main.2aa31d84.chunk.css.map",
+    "static/js/2.4d3c0374.chunk.js.LICENSE.txt": "/MarsayellAirline_ReactJs/static/js/2.4d3c0374.chunk.js.LICENSE.txt",
+    "static/media/Style.css": "/MarsayellAirline_ReactJs/static/media/imagefixed.8a052eeb.jpg",
+    "static/media/logo.da36a7e2.png": "/MarsayellAirline_ReactJs/static/media/logo.da36a7e2.png",
+    "static/media/profile1.fbed64d5.jpg": "/MarsayellAirline_ReactJs/static/media/profile1.fbed64d5.jpg",
+    "static/media/profile2.faaaec40.jpg": "/MarsayellAirline_ReactJs/static/media/profile2.faaaec40.jpg",
+    "static/media/profile3.ca6941c2.jpg": "/MarsayellAirline_ReactJs/static/media/profile3.ca6941c2.jpg",
+    "static/media/video1.4e0669fa.mp4": "/MarsayellAirline_ReactJs/static/media/video1.4e0669fa.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.26130a6b.js",
+    "static/js/2.4d3c0374.chunk.js",
+    "static/css/main.2aa31d84.chunk.css",
+    "static/js/main.1ca08c03.chunk.js"
+  ]
+}
