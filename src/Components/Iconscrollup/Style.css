@@ -1,0 +1,20 @@
+.div_iconfixed {
+    height: 50px;
+    width: 50px;
+    background: #1f1e1e;
+    position: fixed;
+    right: 30px;
+    bottom: 30px;
+    border-radius: 50%;
+    text-align: center;
+    z-index: 11111;
+}
+
+.icon_fix {
+    font-size: 24px;
+    color: #35b4df;
+    margin-top: 12px;
+}
+html {
+    scroll-behavior: smooth;
+  }

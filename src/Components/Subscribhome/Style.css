@@ -1,0 +1,40 @@
+.subscrib_big_div {
+ height: 160px;
+ width: 100%;
+ background: #1f1e1e;
+ position: relative;
+ top : -70px;
+ -webkit-box-shadow: 3px 3px 5px 6px #ccc;  /* Safari 3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
+  box-shadow:6px 6px 5px 0px #3ac4f2; 
+
+}
+.text_subscribe {
+    color: #3ac4f2;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 43px;
+}
+.div_input {
+    padding-top: 43px;
+    padding-right: 43px;
+}
+.span_below_input {
+    color: #3ac4f2;
+    
+}
+.btn_sub {
+    background: #1f1e1e;
+    color:#3ac4f2;
+    border : 1px solid #3ac4f2;
+}
+
+.btn_sub:hover {
+    background: #3ac4f2;
+    color:#1f1e1e;
+    border : 1px solid #1f1e1e;
+}
+
+.input_sub::-webkit-input-placeholder {
+    color: #3ac4f2 !important;
+  }
+ 

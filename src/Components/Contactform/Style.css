@@ -1,0 +1,58 @@
+  .erorr{
+     color:red;
+     text-align: left;
+  }
+
+  .form_contact_big_div {
+     margin-bottom: 20px;
+  }
+
+  .p_left_contact {
+     color: silver;
+  }
+
+  .h4_left_contact {
+     color : lightblue;
+     margin-top: 21px;
+  }
+
+  .big_div_contactform {
+     margin-top: 90px !important;
+  }
+
+  .btn_contact_form {
+     color: #3ac4f2;
+     background: #1f1e1e;
+     border: 1px solid #3ac4f2;
+  }
+
+  .btn_contact_form:hover {
+     color: #1f1e1e;
+     background: #3ac4f2;
+     border: 1px solid #1f1e1e;
+  }
+
+  .input_contact {
+     background-color: #1f1e1e !important;
+     color :#3ac4f2 !important;
+  }
+
+  .input_contact:focus {
+     background-color: #1f1e1e !important;
+  }
+
+  .label_contact {
+     color: silver;
+  }
+
+  .fb_contact{
+     color:#34b1db;
+     font-size: 24px;
+     padding: 5px;
+     margin-top: 7px;
+  }
+
+ .fb_contact:hover{
+     text-decoration: none;
+     color: silver;
+  }

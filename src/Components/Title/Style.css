@@ -1,0 +1,16 @@
+
+   
+
+.h3_title {
+    border-bottom: 2px solid black;
+    width: max-content;
+    margin-bottom: 50px;
+    font-weight: bold;
+    margin: 55px 0px;
+    color : #35b4df;
+    /*hhh*/
+   
+    -webkit-box-reflect: below 0px -webkit-gradient(linear, right top, right bottom,
+     from(transparent),
+      color-stop(17%, transparent), to(rgba(255, 255, 255, 1.7)));
+}

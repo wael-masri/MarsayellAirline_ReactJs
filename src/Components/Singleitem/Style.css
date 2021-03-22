@@ -1,0 +1,48 @@
+.img_singlitem {
+    width: 100%;
+    border: 6px solid #35b4df;
+    border-radius: 5px;
+    transition: transform .5s;
+}
+.big_div_singleitem {
+    margin-bottom: 82px;
+    
+}
+.img_singlitem:hover {
+    
+    -webkit-transform: scale(1.1); /* Safari 3-8 */
+    transform: scale(1.1); 
+  }
+
+  .h2_singleitem {
+      color : lightblue
+  }
+
+  .h4_singleitem {
+    color : silver;
+}
+.h4_singleitem_price {
+    color : silver;
+}
+
+.p_total_price_singleitem{
+    color : silver;
+    font-weight: bold;
+}
+
+.btn_addtocart_dinglitem {
+   
+    color: #3ac4f2;
+    background: #1f1e1e;
+    border: 1px solid #3ac4f2;
+  }
+
+  .btn_addtocart_dinglitem:hover {
+   
+    color: #1f1e1e;
+    background: #3ac4f2;
+    border: 1px solid #1f1e1e;
+  }
+
+
+

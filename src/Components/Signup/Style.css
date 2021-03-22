@@ -1,0 +1,74 @@
+.div_first_signup{
+    width: 70%;
+    height: 100px;
+    background: #212529;
+    border-bottom: 3px solid #35b4df;
+}
+.p_in_first_signup {
+    color : lightblue;
+    padding: 36px;
+    font-size: 20px;
+}
+
+
+.erorr{
+    color:red;
+    text-align: left;
+ }
+
+ .form_signup_big_div {
+    margin-bottom: 20px;
+ }
+
+ .p_left_signup {
+    color: silver;
+ }
+
+ .h4_left_signup {
+    color : lightblue;
+    margin-top: 21px;
+ }
+
+ .big_div_signup {
+    margin-top: 90px !important;
+ }
+
+ .btn_signup_form {
+    color: #3ac4f2;
+    background: #1f1e1e;
+    border: 1px solid #3ac4f2;
+ }
+
+ .btn_signup_form:hover {
+    color: #1f1e1e;
+    background: #3ac4f2;
+    border: 1px solid #1f1e1e;
+ }
+
+ .input_signup {
+    background-color: #1f1e1e !important;
+    color :#3ac4f2 !important;
+ }
+
+ .input_signup:focus {
+    background-color: #1f1e1e !important;
+ }
+
+ .label_signup {
+    color: silver;
+ }
+
+ .fb_signup{
+    color:#34b1db;
+    font-size: 24px;
+    padding: 5px;
+    margin-top: 7px;
+ }
+
+.fb_signup:hover{
+    text-decoration: none;
+    color: silver;
+ }
+ .space_signup_bottom{
+     margin-top: 230px;
+ }

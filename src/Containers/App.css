@@ -1,0 +1,87 @@
+.ico {
+      font-size: 26px;
+      color: #fff;
+      margin-top: 2px;
+}
+
+.badge-danger {
+      color: #fff;
+      background-color: #dc3545;
+      position: absolute;
+      top: 20px;
+      right: 108px;
+}
+
+.ico:hover {
+      color: #3ac4f2;
+}
+
+body{
+      background: black;
+
+}
+
+@media only screen and (max-width: 730px) {
+
+      .badge-danger {
+            top:-12px !important;
+            right: -12px !important;
+
+
+
+      }
+      .signin_link_menu {
+            position: absolute !important;
+            top:28px !important;
+            right:120px !important;
+
+      }
+      .icon_shop_link {
+            position: absolute !important;
+            top:28px !important;
+            right: 95px !important;
+      }
+      .div_input {
+            padding-top: 0px !important;
+            padding-right: 43px !important;
+        }
+        .text_subscribe {
+           
+            font-size: 18px !important;
+           
+            padding: 0px !important;
+        }
+        .content {
+            display: none !important;
+        }
+        .h3_title {
+           
+            width: 100% !important;
+           
+        }
+        .div_team {
+            
+            margin: 39px !important;
+        }
+        .sub_div_items_shop {
+          
+            margin: 10px !important;
+           
+        }
+        .nav_size_small_media {
+              height: 241px !important;
+        }
+        .p_in_first_signin {
+            
+            padding: 7px !important;
+            font-size: 18px !important;
+        }
+        .p_in_first_signup {
+            padding: 7px !important;
+            font-size: 18px !important;
+        }
+
+
+
+}
+
