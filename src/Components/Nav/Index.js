@@ -43,7 +43,7 @@ const showhello = () => {
     <div className="collapse navbar-collapse nav_size_small_media" id="navbarText">
       <ul className="navbar-nav mr-auto">
         <li className="nav-item ">
-          <Link className="nav-link" to="/">Home </Link>
+          <Link className="nav-link" to="/">Home1 </Link>
         </li>
         <li className="nav-item">
           <Link className="nav-link" to="/About">About</Link>
