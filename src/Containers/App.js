@@ -31,6 +31,7 @@ class  App extends Component {
           <Iconscrollup />
          
           <Route exact path='/' component={Home} />
+          <Route exact path='/MarsayellAirline_ReactJs' component={Home} />
         
           <Route path='/About' component={About} />
           <Route path='/Gallery' component={Gallery} />
