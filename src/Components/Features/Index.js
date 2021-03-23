@@ -11,7 +11,7 @@ const Features = () => {
     const [ featuree , setFeature] = useState([])
 
 useEffect(
-   () => { axios.get('Data/Data.json').then(res => { setFeature(res.data.featuress)}) 
+   () => { axios.get('MarsayellAirline_ReactJs/Data/Data.json').then(res => { setFeature(res.data.featuress)}) 
     
 }, [])
 
